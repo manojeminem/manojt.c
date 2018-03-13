@@ -5,5 +5,5 @@ int a;
 printf("enter the a value");
 scanf("%d",&a);
 a++;
-getch():
+getch();
 }
